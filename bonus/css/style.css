@@ -1,0 +1,37 @@
+.box {
+    background-color: blue;
+    height: 50px;
+}
+
+.box-light {
+    background-color: rgb(243, 243, 166);
+    height: 50px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.box-glass {
+    background-color: rgba(255, 255, 255, 0.3);
+    height: 50px;
+}
+
+.box-air-bordered {
+    background-color: rgb(56, 56, 56);
+    height: 25px;
+    border: 1px solid gray;
+}
+
+.box-bottom {
+    background-color: rgb(81, 81, 81);
+    height: 50px;
+}
+
+.box-ruote {
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+}
+
+.orange{
+    background-color: orange;
+    border: 2px solid black;
+    height: 50px;
+}
